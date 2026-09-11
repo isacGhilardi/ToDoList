@@ -1,0 +1,9 @@
+namespace ToDoList.View;
+
+public partial class NovaAtividade : ContentPage
+{
+	public NovaAtividade()
+	{
+		InitializeComponent();
+	}
+}
